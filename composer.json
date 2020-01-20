@@ -1,5 +1,5 @@
 {
-  "name": "evozon-php/entity-extend-bundle",
+  "name": "avash/entity-extend-bundle",
   "type": "symfony-bundle",
   "description": "Slight variation of the original pjarmalavicius/PjEntityExtendBundle - Easy doctrine entities extending",
   "keywords": [
